@@ -1,11 +1,11 @@
 insert into employee(emp_id, first_name, last_name, profession, phone_no, sex) values(01, 'Abel', 'Mesfin', 'Manager', '251911893434', 'M');
-insert into employee(emp_id, first_name, last_name, profession, phone_no, sex) values(01, 'Samrawit', 'Wubet', 'Assistant', '25191234343', 'F');
-insert into employee(emp_id, first_name, last_name, profession, phone_no, sex) values(01, 'Melsew', 'Adise', 'Forman', '251911334455', 'M');
-insert into employee(emp_id, first_name, last_name, profession, phone_no, sex) values(01, 'Gush', 'Teklay', 'Driver', '25191100000', 'M');
-insert into employee(emp_id, first_name, last_name, profession, phone_no, sex) values(01, 'Hailay', 'Kebede', 'Driver', '25191900323', 'M');
-insert into employee(emp_id, first_name, last_name, profession, phone_no, sex) values(01, 'Teshome', 'Zeleke', 'Civil Enginner', '251911800234', 'M');
-insert into employee(emp_id, first_name, last_name, profession, phone_no, sex) values(01, 'Abel', 'Kifle', 'Survey', '25191184343', 'M');
-insert into employee(emp_id, first_name, last_name, profession, phone_no, sex) values(01, 'Muse', 'Eskinder', 'Data Analyst', '251975343477', 'M');
+insert into employee(emp_id, first_name, last_name, profession, phone_no, sex) values(02, 'Samrawit', 'Wubet', 'Assistant', '25191234343', 'F');
+insert into employee(emp_id, first_name, last_name, profession, phone_no, sex) values(03, 'Melsew', 'Adise', 'Forman', '251911334455', 'M');
+insert into employee(emp_id, first_name, last_name, profession, phone_no, sex) values(04, 'Gush', 'Teklay', 'Driver', '25191100000', 'M');
+insert into employee(emp_id, first_name, last_name, profession, phone_no, sex) values(05, 'Hailay', 'Kebede', 'Driver', '25191900323', 'M');
+insert into employee(emp_id, first_name, last_name, profession, phone_no, sex) values(06, 'Teshome', 'Zeleke', 'Civil Enginner', '251911800234', 'M');
+insert into employee(emp_id, first_name, last_name, profession, phone_no, sex) values(07, 'Abel', 'Kifle', 'Survey', '25191184343', 'M');
+insert into employee(emp_id, first_name, last_name, profession, phone_no, sex) values(08, 'Muse', 'Eskinder', 'Data Analyst', '251975343477', 'M');
 
 #capital_table
 
